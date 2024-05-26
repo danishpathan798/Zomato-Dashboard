@@ -52,4 +52,5 @@ Let's connect and explore opportunities to leverage analytics for your business 
 
 #PowerBI #DataAnalytics #ZomatoAnalysis #BusinessIntelligence #DataVisualization
 
-![Uploading zomato.gif…]()
+![zomato](https://github.com/danishpathan798/Zomato-Dashboard/assets/169689750/9b127014-db1a-4dfc-a8fa-99c35c03e1a5)
+
