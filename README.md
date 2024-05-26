@@ -51,3 +51,5 @@ This project offers actionable insights to optimize operations, enhance user exp
 Let's connect and explore opportunities to leverage analytics for your business success!
 
 #PowerBI #DataAnalytics #ZomatoAnalysis #BusinessIntelligence #DataVisualization
+
+![Uploading zomato.gif…]()
